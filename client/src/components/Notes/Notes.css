@@ -1,0 +1,18 @@
+.notePage {
+    display: flex;
+    flex-direction: column;
+
+    width: 900px;
+    margin-left: 20px;
+
+}
+
+.notesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+
+    overflow-y:auto;
+    height: fit-content;
+    max-height: 800px;
+}

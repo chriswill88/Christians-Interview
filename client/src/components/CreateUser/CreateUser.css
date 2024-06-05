@@ -1,0 +1,25 @@
+.createUserForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.submitButton {
+    width: fit-content;
+    &:hover {
+        color:red;
+    }
+}
+
+.createUserContainer {
+    position: absolute;
+    right: 40%;
+    top: 30%;
+
+    background-color: rgb(100, 125, 125);
+    width: fit-content;
+    padding: 70px;
+    border-radius: 20px;
+    color: white;
+    
+}
+

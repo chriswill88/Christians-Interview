@@ -6,23 +6,29 @@ Welcome to the Kibu Technical Project portion of the interview! Congratulations 
 
 The admin tooling features of Kibu are a large part of our product. In this project you will create a basic implementation of viewing and creating notes for a user. You will create a basic react front end which connects to a simple backend containing users and notes.
 
+## Video
+
 ## Specification
 
 Your solution must include the following:
 
-1. Utilize React and TypeScript
-2. A page to list all users and their respective notes
-3. Ability to create a new note for a user
+1. Utilize React and TypeScript ✅
+2. A page to list all users and their respective notes ✅
+3. Ability to create a new note for a user ✅
 
 If time allows the following are nice to have features:
 
-1. Add a new field to note called `timestamp` which tracks the current time when saved
-2. Ability to update a note
-3. Add a new resource in the backend called `audit_log` which tracks changes when a note is updated
+1. Add a new field to note called `timestamp` which tracks the current time when saved ✅
+2. Ability to update a note ✅
+3. Add a new resource in the backend called `audit_log` which tracks changes when a note is updated ✅
 
 The following can be considered out of scope:
 
 1. Authorization, authentication, and security of the backend server
+
+## run dev server
+npm install 
+npm run dev
 
 ## Backend Server
 

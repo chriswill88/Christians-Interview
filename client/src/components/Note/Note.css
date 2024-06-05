@@ -1,0 +1,20 @@
+.note {
+    width: 180px;
+    height: 180px;
+    background-color: lavender;
+    color: black;
+
+    margin: 10px;
+    margin-left: 0px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.focus {
+    filter: brightness(70%);
+}
