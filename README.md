@@ -26,9 +26,12 @@ The following can be considered out of scope:
 
 1. Authorization, authentication, and security of the backend server
 
-## run dev server
-npm install 
-npm run dev
+## view project
+```npm install```
+```npm install -g json-server```
+```json-server --watch db.json```
+```npm run dev```
+
 
 ## Backend Server
 
