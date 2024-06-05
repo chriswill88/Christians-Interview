@@ -6,7 +6,10 @@ Welcome to the Kibu Technical Project portion of the interview! Congratulations 
 
 The admin tooling features of Kibu are a large part of our product. In this project you will create a basic implementation of viewing and creating notes for a user. You will create a basic react front end which connects to a simple backend containing users and notes.
 
-## Video
+## Pictures
+![Screenshot 2024-06-05 154621](https://github.com/chriswill88/Christians-Interview/assets/46333279/1675cd08-ef19-4e13-9543-7d93e053c3d5)
+![Screenshot 2024-06-05 154604](https://github.com/chriswill88/Christians-Interview/assets/46333279/6f7c3f46-0168-4e27-8761-b27b83b14c34)
+
 
 ## Specification
 
@@ -28,8 +31,11 @@ The following can be considered out of scope:
 
 ## view project
 ```npm install```
+
 ```npm install -g json-server```
+
 ```json-server --watch db.json```
+
 ```npm run dev```
 
 
